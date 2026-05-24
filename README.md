@@ -5,7 +5,7 @@ Computer Engineer | Digital Marketing Engineer | Data & Automation Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/sebastiancarrascotapia">
+  <a href="https://www.linkedin.com/in/sebastiancarrascotapia">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:seb.carrascot@gmail.com">
